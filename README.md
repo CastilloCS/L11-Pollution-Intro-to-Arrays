@@ -1,4 +1,4 @@
-# Lab 14 - Pollution + Intro to Arrays
+# Lab 11 - Pollution + Intro to Arrays
 
 **Create a visual representation of data utilizing arrays**
 
